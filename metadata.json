@@ -1,0 +1,7 @@
+{
+  "name": "VoxOpenAI Agent",
+  "description": "A voice agent using OpenAI Whisper (STT), GPT-4o-mini (Reasoning), and TTS-1 (Audio).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
